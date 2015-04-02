@@ -58,7 +58,6 @@ class BankAccount
   def reset!
     @balance = 0
   end
-  private: reset!
 
 end
 
